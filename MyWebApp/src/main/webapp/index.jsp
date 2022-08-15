@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> This line is auto deployed via jenkins. </h2>
+	<h1> This line is auto deployed via jenkins. </h1>
   
 </body>
 </html>
