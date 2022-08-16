@@ -2,7 +2,18 @@
 <html lang="en">
     <head>
 	<style>
-		body {background-color: powderblue;}
+		
+		.bgimg {
+ 		 background-image: url('./rezo.png');
+		  height: 100%;
+		  background-position: center;
+		  background-size: cover;
+		  position: relative;
+		  color: white;
+		  font-family: "Courier New", Courier, monospace;
+ 			 font-size: 25px;
+}
+
 	    </style>
           <title>this is my Java Web App</title>
           <meta content="text/html; charset=utf-8" />
