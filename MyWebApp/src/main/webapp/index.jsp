@@ -3,16 +3,7 @@
     <head>
 	<style>
 		
-		.bgimg {
- 		 background-image: url('./rezo.png');
-		  height: 100%;
-		  background-position: center;
-		  background-size: cover;
-		  position: relative;
-		  color: white;
-		  font-family: "Courier New", Courier, monospace;
- 			 font-size: 25px;
-}
+		body {background-color: powderblue;}
 
 	    </style>
           <title>this is my Java Web App</title>
