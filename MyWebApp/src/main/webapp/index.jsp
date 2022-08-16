@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+	<style>
+		body {background-color: powderblue;}
+	    </style>
           <title>this is my Java Web App</title>
           <meta content="text/html; charset=utf-8" />
     </head>
